@@ -1,0 +1,23 @@
+#nav{
+    background-color: rgb(136, 160, 180);
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+}
+#nav a{
+    text-decoration: none;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: black;
+}
+#nav{
+    background-color: rgb(136, 160, 180);
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+}
+#nav a{
+    text-decoration: none;
+    font-size: 20px;
+    text-transform: uppercase;
+}
