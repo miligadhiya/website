@@ -1,5 +1,5 @@
 #nav{
-    background-color: rgb(136, 160, 180);
+    background-color:rgb(114, 97, 110);
     display: flex;
     justify-content: space-around;
     padding: 15px;
@@ -15,19 +15,20 @@ form input {
     margin: 20px;
     padding: 10px 10px;
     width: 80%;
-    border: 1px solid rgba(102, 99, 99, 0.699);
     background-color: white;
 }
 #form{
     border: 2px solid rgb(158, 157, 157);
     width: 100%; 
     padding: 30px 30px;
+    border-radius: 10px;
 }
 #form-box{
     justify-content: center;
     align-items: center;
     display: flex;
     align-content: center;
+    
     padding-top: 10%;
 }
 #submit{
@@ -39,7 +40,6 @@ form input {
 }
 #htext{
     font-size: 30px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: 600;
     color: rgb(149, 152, 147);
     text-align: center;
