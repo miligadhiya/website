@@ -26,8 +26,12 @@
     width: 80%;
     height: 100vh;
     display: grid;
-    padding: 40px 40px;
+    padding: px 0px;
     grid-template-columns: repeat(2, 1fr);
+}
+#products div{
+    border: 1px solid #000;
+    background-color: rgb(255, 255, 255);
 }
 
 img {
