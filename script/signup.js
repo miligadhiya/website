@@ -4,6 +4,7 @@ document.getElementById("nav").innerHTML=nav()
 
 document.getElementById("form").addEventListener("submit",function(e){
     e.preventDefault();
+
    let user ={
       name:document.getElementById("name").value,
       lname:document.getElementById("lname").value,
@@ -13,5 +14,6 @@ document.getElementById("form").addEventListener("submit",function(e){
       number:document.getElementById("number")
    }
    console.log(user);
+   
    localStorage.setItem("website",JSON.stringify(user));
 })
