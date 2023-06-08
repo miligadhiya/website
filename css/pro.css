@@ -6,11 +6,10 @@
     background-color:rgb(114, 97, 110);
     display: flex;
     justify-content: space-around;
-    padding: 15px;
 }
 #nav a{
     text-decoration: none;
-    font-size: 50px;
+    font-size: 20px;
     text-transform: uppercase;
     color: black;
 }
@@ -42,25 +41,24 @@ img {
 h1 {
     font-size: 25px;
     text-align: center;
-    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
     font-weight: 400;
     text-transform: uppercase;
 }
 
 p {
-    font-size: 30px;
+    
     font-weight: 400;
-    /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
+   
 }
 
 h3 {
     font-size: 27px;
     font-weight: 400;
-    /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
 }
 
 button {
     padding: 5px;
     font-size: 15px;
     margin: 10px;
-    }
+    border-radius: 8px;
+}
