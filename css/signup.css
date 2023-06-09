@@ -28,13 +28,13 @@ form input {
     border-radius: 10px;
 }
 
-#form-box{
+#form-box {
     justify-content: center;
     align-items: center;
     display: flex;
     align-content: center;
-    
     padding-top: 10%;
+    background-color: rgb(114, 97, 110);
 }
 #submit{
     border: 0.5px solid rgb(122, 115, 115); 

@@ -4,6 +4,13 @@
     justify-content: space-around;
     padding: 15px;
 }
+.benner{
+    background-image: url(https://wallpapershome.com/images/wallpapers/love-image-7680x4320-8k-21486.jpg);
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 #nav a{
     text-decoration: none;
