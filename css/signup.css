@@ -5,6 +5,7 @@
     padding: 15px;
 }
 
+
 #nav a{
     text-decoration: none;
     font-size: 20px;
@@ -23,16 +24,18 @@ form input {
 body{
     margin: 0;
     padding: 0;
+    background-color: rgb(114, 97, 110);
 }
 #form {
     border: 2px solid rgb(158, 157, 157);
     width: 100%;
-    padding: 30px;
+    padding-right: 40px;
+    padding-left: 40px;
+    /* padding: 30px; */
     border-radius: 10px;
     background-color: rgb(138, 127, 127);
     margin-bottom: 90px;
 }
-
 #form-box {
     justify-content: center;
     /* align-items: center; */
