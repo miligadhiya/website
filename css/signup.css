@@ -21,13 +21,12 @@ form input {
 }
 
 
-#form{
-    border: 2px solid rgb(158, 157, 157);
-    width: 100%; 
+#form {
+    border: 2px solid rgb(213 200 200);
+    width: 100%;
     padding: 30px 30px;
     border-radius: 10px;
 }
-
 #form-box {
     justify-content: center;
     align-items: center;
