@@ -1,15 +1,22 @@
 #nav{
-    background-color: rgb(114, 97, 110);
+    background-color: rgb(255, 255, 255);
     display: flex;
     justify-content: space-around;
     padding: 15px;
 }
 .benner{
-    background-image: url(https://wallpapershome.com/images/wallpapers/love-image-7680x4320-8k-21486.jpg);
+    
     height: 100vh;
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
+    /* background-image: url(https://www.addictioncenter.com/app/uploads/2020/01/online_shopping_addiction-scaled.jpeg); */
+
+}
+.benner img{
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
 }
 
 #nav a{
@@ -20,7 +27,7 @@
 }
 
 #nav {
-    background-color: rgb(200 187 197);
+    background-color: rgb(255, 255, 255);
     display: flex;
     justify-content: space-around;
     padding: 15px;
