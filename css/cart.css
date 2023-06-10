@@ -1,4 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 img{
     height: 300px;
     width: 300px;
+}
+#nav {
+    background-color: rgb(114, 97, 110);
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+    position: fixed;
+    width: 100%;
 }
