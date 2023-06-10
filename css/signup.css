@@ -23,8 +23,7 @@ form input {
 
 body{
     margin: 0;
-    padding: 0;
-    background-color: rgb(114, 97, 110);
+    padding: 0; 
 }
 #form {
     border: 2px solid rgb(158, 157, 157);
@@ -42,7 +41,7 @@ body{
     display: flex;
     align-content: center;
     /* padding-top: 10%; */
-    background-color: rgb(114, 97, 110);
+    background-color: rgb(200 187 197);
 }
 #submit {
     border: 0.5px solid rgb(122, 115, 115);
