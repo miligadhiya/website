@@ -6,8 +6,23 @@
     padding: 15px;
 }
 .main{
-    color: darkgrey;
+    color: rgb(176, 160, 160);
     align-items: center;
+    font-size: 50px;
+    text-align: center;
+    margin-right: 90px;
+}
+.btn{
+   margin-left: 40%;
+   border-radius: 5px;
+   padding: 5px;
+   background-color: rgb(147, 142, 142);
+   color: rgb(66, 60, 60);
+}
+p {
+    color: rgb(147, 142, 142);
+    font-size: 20px;
+    margin-left: 90px;
 }
 .w-50{
     width: 50%;
