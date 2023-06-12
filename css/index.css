@@ -1,17 +1,30 @@
 
 #nav {
-    background-color: rgb(230, 201, 228);
+    background-color: rgb(255, 255, 255);
     display: flex;
     justify-content: space-around;
     padding: 15px;
 }
-body{
-   background-color: rgb(209, 158, 204);
+.main{
+    color: darkgrey;
+    align-items: center;
 }
-.benner img{
-    height: 100vh;
+.w-50{
+    width: 50%;
+}
+.align-items-center{
+    align-items: center;
+}
+body{
+   background-color: rgb(255, 255, 255);
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.banner img{
+    height: 50%;
     width: 100%;
-    background-repeat: no-repeat;
 }
 
 #nav a{
