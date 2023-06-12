@@ -1,24 +1,12 @@
 
 #nav {
-    background-color: aqua;
+    background-color: rgb(230, 201, 228);
     display: flex;
     justify-content: space-around;
     padding: 15px;
 }
 body{
-   background-color: rgb(197, 209, 219);
-}
-.benner{
-    
-    height: 100vh;
-    width: 100%;
-    object-fit: contain;
-    /* background-repeat: no-repeat; */
-    position: fixed;
-    display: flex;
-    background-size: cover;
-    
-
+   background-color: rgb(209, 158, 204);
 }
 .benner img{
     height: 100vh;
