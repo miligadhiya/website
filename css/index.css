@@ -1,16 +1,21 @@
-#nav{
-    background-color: rgb(255, 255, 255);
+#nav {
+    background-color: transparent;
     display: flex;
     justify-content: space-around;
     padding: 15px;
+}
+body{
+    background-image: url(https://www.addictioncenter.com/app/uploads/2020/01/online_shopping_addiction-scaled.jpeg);
 }
 .benner{
     
     height: 100vh;
     width: 100%;
     background-repeat: no-repeat;
+    position: fixed;
+    display: flex;
     background-size: cover;
-    /* background-image: url(https://www.addictioncenter.com/app/uploads/2020/01/online_shopping_addiction-scaled.jpeg); */
+    
 
 }
 .benner img{
@@ -27,7 +32,7 @@
 }
 
 #nav {
-    background-color: rgb(255, 255, 255);
+    background-color: transparent;
     display: flex;
     justify-content: space-around;
     padding: 15px;
