@@ -6,21 +6,13 @@
     padding: 15px;
 }
 .main{
-    color: rgb(176, 160, 160);
+    color: rgb(114, 104, 104);
     align-items: center;
     font-size: 50px;
     text-align: center;
     margin-right: 90px;
 }
-.btn{
-   margin-left: 40%;
-   border-radius: 5px;
-   padding: 5px;
-   color: black;
-   background-color: rgb(147, 142, 142);
-   color: rgb(100, 90, 90);
-   padding: 8px;
-}
+
 p {
     color: rgb(147, 142, 142);
     font-size: 20px;
